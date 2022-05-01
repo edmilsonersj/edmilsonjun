@@ -4,7 +4,7 @@
 
 - 🔭 currently I'm just studying
 
-- 🤓 I'm studying  **JavaScript, HTML, CSS, SQL, Node.JS, React**
+- 🤓 I'm studying  **JavaScript, HTML, CSS, SQL, Node.JS, React, Git, Github,**
 
 <br><br>
 
